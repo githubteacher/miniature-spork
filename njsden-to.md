@@ -1,6 +1,6 @@
 # Places to eat
 
-- Wendy's
+- Wendy's or A&W
 - Pickle Barrel
 - Swiss Chalet
 
