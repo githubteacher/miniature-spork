@@ -1,4 +1,4 @@
 # Places to Eat
-- Canoe
+- Auberge du Pommier
 - Richmond Station
 - O&B
