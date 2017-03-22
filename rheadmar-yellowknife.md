@@ -1,4 +1,4 @@
-# Yellow Knife Restaurants
+# Good Yellow Knife Restaurants
 
 - Diamante Restaurant
 - Bullock's Bistro
