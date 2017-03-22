@@ -3,6 +3,12 @@
 - March 22-23, 2017
 - Facilitators:
  - Matt Desmond (@beardofedu)
+- Contributors
+ - aklauza
+ - rugvedarg
+ - dmendoza2017
+ - njsden
+ - rheadmar
 
 ## Give Us Feedback
 
@@ -28,3 +34,5 @@ Please take a moment to complete the class survey at: http://www.surveygizmo.com
 ## Playgrounds for practicing branching
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
 - [GitSchool - Visualizing Git](http://git-school.github.io/visualizing-git/)
+
+
