@@ -1,5 +1,5 @@
 # Places to eat
 
-- Thai Island
+- McDonalds
 - Subway
 - Tim Horton's
