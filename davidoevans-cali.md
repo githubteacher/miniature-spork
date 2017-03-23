@@ -1,4 +1,4 @@
 # places to eat
 
-- [ ] Emmit Ray
+- [ ] Emmit Ray :beer:
 - [ ] Cafeteria
